@@ -1,0 +1,84 @@
+Circuit: * C:\Users\Aditya\Documents\LTspiceXVII\Draft5.asc
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+Gmin = 1.08884
+vernier = 0.03125
+vernier = 0.015625
+Gmin = 1.03122
+vernier = 0.0078125
+vernier = 0.00390625
+Gmin = 1.01823
+vernier = 0.00520833
+vernier = 0.00260417
+Gmin = 1.01162
+vernier = 0.00347222
+vernier = 0.00173611
+vernier = 0.000868055
+Gmin = 1.00899
+vernier = 0.00115741
+vernier = 0.000578703
+Gmin = 1.0071
+vernier = 0.000771604
+vernier = 0.000578703
+Gmin = 1.00579
+vernier = 0.000771604
+vernier = 0.000578703
+vernier = 0.000434027
+Gmin = 1.00499
+vernier = 0.000578703
+vernier = 0.000434027
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+vernier = 0.25
+Source Step = 98.4848%
+Source Step = 99.3016%
+Source Step = 99.3312%
+Source Step = 99.3608%
+Source Step = 99.3904%
+Source Step = 99.42%
+vernier = 0.00146484
+Source Step = 99.4525%
+Source Step = 99.4969%
+Source Step = 99.5413%
+Source Step = 99.5857%
+Source Step = 99.6301%
+vernier = 0.00219727
+Source Step = 99.6767%
+Source Step = 99.7433%
+Source Step = 99.8099%
+Source Step = 99.8765%
+Source Step = 99.943%
+Source stepping succeeded in finding the operating point.
+
+
+Date: Sat Dec 03 09:52:16 2022
+Total elapsed time: 1.459 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 14270
+traniter = 5997
+tranpoints = 2082
+accept = 1457
+rejected = 625
+matrix size = 108
+fillins = 405
+solver = Normal
+Thread vector: 9.6/6.9[2] 4.0/2.7[2] 1.8/1.6[1] 0.5/9.6[1]  2592/500
+Matrix Compiler1: 35.16 KB object code size  9.7/3.4/[2.7]
+Matrix Compiler2: 15.76 KB object code size  2.1/3.2/[1.0]
+
